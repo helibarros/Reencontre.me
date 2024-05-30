@@ -91,7 +91,7 @@ div#principal{
     height: 900px;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url("img/objetivo.1.png");
+    background-image: url("img/meninas.png");
     
 }
 div#principal h1{
@@ -167,6 +167,7 @@ div#body5 h2{
     right: 550px;
     font-size: 200%;
     color: white;
+    margin-top: 100px;
 }
 
 
