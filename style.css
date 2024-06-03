@@ -91,13 +91,13 @@ div#principal{
     height: 900px;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url("img/meninas.png");
+    background-image: url("img/inicio3.png");
     
 }
 div#principal h1{
     position: absolute;
     top:150px;
-    right: 850px;
+    right: 900px;
     font-size: 100px;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -105,9 +105,9 @@ div#principal h1{
 }
 div#principal h2{
     position: absolute;
-    top: 720px;
+    top: 250px;
     text-align: center;
-    right: 500px;
+    right: 850px;
     font-size: 200%;
     color: white;
 }
@@ -117,9 +117,10 @@ div#body1{
 div#body1 h2{
      position: absolute;
     top: 1100px;
-    right: 250px;
+    right: 130px;
     font-size: 250%;
     color: white;
+    max-width: 800px;
 }
 div#body1 p{
     position: absolute;
@@ -127,6 +128,7 @@ div#body1 p{
     right: 130px;
     color: white;
     font-size: 250%;
+    max-width: 800px;
 
 }
 
